@@ -1,0 +1,11 @@
+.card-width{
+    width:300px !important;
+    height: 250px !important; 
+}
+.button-class{
+    display: flex;
+    justify-content: center;
+}
+.button-success{
+    margin-left: 20px;
+}
